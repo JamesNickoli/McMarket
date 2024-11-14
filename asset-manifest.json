@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/McMarket/static/css/main.2ef8aaa4.css",
-    "main.js": "/McMarket/static/js/main.6472e52c.js",
+    "main.js": "/McMarket/static/js/main.af3916be.js",
     "static/js/453.d893c995.chunk.js": "/McMarket/static/js/453.d893c995.chunk.js",
     "index.html": "/McMarket/index.html",
     "main.2ef8aaa4.css.map": "/McMarket/static/css/main.2ef8aaa4.css.map",
-    "main.6472e52c.js.map": "/McMarket/static/js/main.6472e52c.js.map",
+    "main.af3916be.js.map": "/McMarket/static/js/main.af3916be.js.map",
     "453.d893c995.chunk.js.map": "/McMarket/static/js/453.d893c995.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ef8aaa4.css",
-    "static/js/main.6472e52c.js"
+    "static/js/main.af3916be.js"
   ]
 }
